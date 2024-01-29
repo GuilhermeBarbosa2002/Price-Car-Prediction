@@ -1,5 +1,5 @@
 # Car Price Estimation using Machine Learning | Regression + Classification Models
-This repository contains the code and documentation for a project undertaken as part of the Machine Learning for Enterprise Systems course. The project's primary goal is to develop a predictive model for estimating car prices based on specific features.
+This repository contains the code and documentation for a Machine Learning project. The project's primary goal is to develop a predictive model for estimating car prices based on specific features.
 
 #### Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
 
